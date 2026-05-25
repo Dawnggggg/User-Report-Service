@@ -30,3 +30,4 @@ C:\Users\HELLO\Desktop\BTL\dashboard\WarehouseService\obj\Debug\net9.0\refint\Wa
 C:\Users\HELLO\Desktop\BTL\dashboard\WarehouseService\obj\Debug\net9.0\WarehouseService.pdb
 C:\Users\HELLO\Desktop\BTL\dashboard\WarehouseService\obj\Debug\net9.0\WarehouseService.genruntimeconfig.cache
 C:\Users\HELLO\Desktop\BTL\dashboard\WarehouseService\obj\Debug\net9.0\ref\WarehouseService.dll
+C:\Users\HELLO\Desktop\BTL\dashboard\WarehouseService\obj\Debug\net9.0\WarehouseService.sourcelink.json
